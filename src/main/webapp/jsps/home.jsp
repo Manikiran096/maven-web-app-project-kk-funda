@@ -9,7 +9,7 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to   manikiran learning </h1>
+<h1 align="center">Welcome to manikiran learning </h1>
 <h1 align="center"> Manikiran</h1>
 <hr>
 <br>
